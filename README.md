@@ -1,16 +1,13 @@
-## Hi there 👋
+**Hi, I am Paula** 	👋
 
-<!--
-**paulaboutala/paulaboutala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a front-end developer passionate about creating applications that are not only easy to use but also aligned with business goals, with a strong focus on UX/UI. I specialize in building smooth, efficient, and user-friendly interfaces using React, JavaScript, and React Native.
 
-Here are some ideas to get you started:
+I work with technologies like **Node.js, Express, Axios, HTML, CSS, and MongoDB** to deliver complete solutions, always aiming to balance functionality and great user experience. I also design and prototype interfaces using Figma and manage version control with Git and GitHub. My workflow is centered around writing clean, maintainable code, and collaborating effectively with the team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For me, the best applications are those that solve real problems and provide users with intuitive and meaningful interactions!
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</div>
