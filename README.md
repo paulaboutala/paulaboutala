@@ -6,6 +6,8 @@ I work with technologies like **JavaScript, React, Node.js, Express, Axios, HTML
 
 For me, the best applications are those that solve real problems and provide users with intuitive and meaningful interactions!
 
+<br/>
+
 <div align="left">
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -15,12 +17,6 @@ For me, the best applications are those that solve real problems and provide use
 
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-
-  <!-- Express -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-
-  <!-- Axios (não tem ícone oficial no Devicon, mas pode usar esse alternativo ou substituir por texto) -->
-  <img src="https://axios-http.com/assets/logo.svg" width="40"/>
 
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
