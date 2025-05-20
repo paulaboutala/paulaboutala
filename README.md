@@ -1,6 +1,6 @@
 **Hi, I am Paula** 	👋
 
-💻 I’m a front-end developer passionate about creating applications that are not only easy to use but also aligned with business goals, with a strong focus on UX/UI. I specialize in building smooth, efficient, and user-friendly interfaces using React and JavaScript.
+💻 I’m a front-end developer passionate about creating applications that are not only easy to use but also aligned with business goals, with a strong focus on UX/UI. I specialize in building smooth, efficient, and user-friendly interfaces.
 
 I work with technologies like **JavaScript, React, Node.js, Express, Axios, HTML, CSS, and MongoDB** to deliver complete solutions, always aiming to balance functionality and great user experience. I apply UX/UI principles to create intuitive and user-centered interfaces. My workflow is centered around writing clean, maintainable code, and collaborating effectively with the team.
 
